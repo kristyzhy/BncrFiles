@@ -1,11 +1,33 @@
 {
   "annotation": "该文件由系统自动生成. 用于插件市场索引,请勿编辑该文件中的任何内容",
+  "0Oa1sHMPyW1LiqswLY1RXVGQCkg=": {
+    "type": "github",
+    "name": "wxFerry",
+    "author": "Merrick",
+    "team": "Merrick",
+    "version": "1.0.2",
+    "description": "wechatFerry适配器",
+    "classification": [
+      "适配器"
+    ],
+    "filename": "wxFerry.js",
+    "fileDir": "/Adapter/wxFerry.js",
+    "systemVersionRange": "",
+    "isCron": false,
+    "isAdapter": true,
+    "isMod": false,
+    "isService": false,
+    "isAuthentication": false,
+    "isEncPlugin": false,
+    "id": "0Oa1sHMPyW1LiqswLY1RXVGQCkg=",
+    "isChatPlugin": false
+  },
   "/dYGSmV9Q9z/dctWzOcKXrN9Q04=": {
     "type": "github",
     "name": "wxMP",
     "author": "Merrick",
     "team": "Merrick",
-    "version": "1.0.4",
+    "version": "1.0.7",
     "description": "微信公众号适配器",
     "classification": [
       "适配器"
@@ -49,7 +71,7 @@
     "name": "wxWork",
     "author": "Merrick",
     "team": "Merrick",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "description": "企业微信适配器",
     "classification": [
       "适配器"
@@ -71,7 +93,7 @@
     "name": "wxWorkKF",
     "author": "Merrick",
     "team": "Merrick",
-    "version": "1.0.3",
+    "version": "1.0.2",
     "description": "微信客服适配器",
     "classification": [
       "适配器"
@@ -87,6 +109,28 @@
     "isEncPlugin": false,
     "id": "lSWnQO/Zr5hSNz9D/V2lZShxpNE=",
     "isChatPlugin": false
+  },
+  "PPGNHjxErDMVJNmJP7MDQT28eso=": {
+    "type": "github",
+    "name": "BackupDB",
+    "author": "Merrick",
+    "team": "Merrick",
+    "version": "1.0.0",
+    "description": "备份和恢复无界数据库",
+    "classification": [
+      "插件"
+    ],
+    "filename": "BackupDB.js",
+    "fileDir": "/plugins/Merrick/BackupDB.js",
+    "systemVersionRange": "",
+    "isCron": false,
+    "isAdapter": false,
+    "isMod": false,
+    "isService": false,
+    "isAuthentication": false,
+    "isEncPlugin": true,
+    "id": "PPGNHjxErDMVJNmJP7MDQT28eso=",
+    "isChatPlugin": true
   },
   "HdQnUqI8kdQLRxnpZ6QvGdCB61I=": {
     "type": "github",
@@ -110,6 +154,28 @@
     "id": "HdQnUqI8kdQLRxnpZ6QvGdCB61I=",
     "isChatPlugin": true
   },
+  "IwIeUBVuUnmQ0wnEU9xjgKwDxfU=": {
+    "type": "github",
+    "name": "CleanPluginsDB",
+    "author": "Merrick",
+    "team": "Merrick",
+    "version": "1.0.3",
+    "description": "清理数据库中无效的插件配置数据",
+    "classification": [
+      "插件"
+    ],
+    "filename": "CleanPluginsDB.js",
+    "fileDir": "/plugins/Merrick/CleanPluginsDB.js",
+    "systemVersionRange": "",
+    "isCron": false,
+    "isAdapter": false,
+    "isMod": false,
+    "isService": false,
+    "isAuthentication": false,
+    "isEncPlugin": true,
+    "id": "IwIeUBVuUnmQ0wnEU9xjgKwDxfU=",
+    "isChatPlugin": true
+  },
   "7Z6H0SOpmv3v7wXvkc7CTaXPw3c=": {
     "type": "github",
     "name": "Gemini",
@@ -130,6 +196,28 @@
     "isAuthentication": false,
     "isEncPlugin": false,
     "id": "7Z6H0SOpmv3v7wXvkc7CTaXPw3c=",
+    "isChatPlugin": true
+  },
+  "yk+jWuoVfKfzGLG5ONppH+DgBnA=": {
+    "type": "github",
+    "name": "PushMessage",
+    "author": "Merrick",
+    "team": "Merrick",
+    "version": "1.0.0",
+    "description": "推送消息到指定的群组",
+    "classification": [
+      "插件"
+    ],
+    "filename": "PushMessage.js",
+    "fileDir": "/plugins/Merrick/PushMessage.js",
+    "systemVersionRange": "",
+    "isCron": false,
+    "isAdapter": false,
+    "isMod": false,
+    "isService": false,
+    "isAuthentication": false,
+    "isEncPlugin": true,
+    "id": "yk+jWuoVfKfzGLG5ONppH+DgBnA=",
     "isChatPlugin": true
   },
   "iE19XaJwuzlvYARa1bFz43pjfHg=": {
